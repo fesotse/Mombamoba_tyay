@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mashiyyat15
+- 👋 Hi, I’m @fesetse
 - 👀 I’m interested in image processing and web development
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on ...
