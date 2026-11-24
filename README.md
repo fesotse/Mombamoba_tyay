@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @fesotse
-- 👀 I’m interested in image processing and web development
-- 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in image processing, ocean modelling and web development
+- 🌱 I’m currently learning ocean modelling
+- 💞️ I’m looking to collaborate on ocean prediction and ecosystem modelling
+- 📫 How to reach me:
 
 <!---
 mashiyyat15/mashiyyat15 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
